@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.yosemite {
+    width: 100%;
+    height: 7750px;
+    background-image: url("Yosemite.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#sonic {
+    position: fixed;
+    top: 20vw;
+    left: 50vw;
+    background: url(sonic-small.png) no-repeat;
+    width: 24px;
+    height: 40px;
+}
